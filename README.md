@@ -1,6 +1,6 @@
 # App Manager
 
-A native Windows GUI tool for inspecting and managing installed applications, startup applications, processes, and services. Built with Rust and egui.
+A Windows GUI tool for inspecting and managing installed applications, startup applications, processes, and services. Built with Rust and egui.
 
 Pre-compiled downloads and installers are available on the project's [GitHub Releases](https://github.com/mattx86/app-manager/releases) page.
 
