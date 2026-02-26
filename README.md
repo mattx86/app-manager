@@ -6,7 +6,7 @@ Pre-compiled downloads and installers are available on the project's [GitHub Rel
 
 ![App Manager](screenshot.png)
 
-## Tabs
+## App Sections
 
 ### Installed Apps
 
@@ -49,9 +49,6 @@ Lists all Win32 services with their product name, command line, start type, run 
 
 ## Features
 
-- Custom borderless dark-mode window with drag-to-move and double-click-to-maximize title bar
-- Background data loading with a loading overlay for responsive startup
-- All subprocess calls run silently (no console window flash)
 - Restart as Administrator button for elevated access
 - Resizable tables with row selection and hover highlighting
 - CSV export for any tab
